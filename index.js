@@ -18,7 +18,7 @@ app.get("/", (req, res) => {
 
 mongoose
   .connect(
-    `mongodb+srv://${process.env.NAME}:${process.env.PASSWORD}@cluster0.ymjyd.mongodb.net/?retryWrites=true&w=majority`,
+    `mongodb+srv://loihd971:Telegram98@cluster0.ymjyd.mongodb.net/?retryWrites=true&w=majority`,
     {
       useNewUrlParser: true,
       useUnifiedTopology: true,
