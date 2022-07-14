@@ -9,6 +9,13 @@
     "start": "nodemon index.js",
     "test": "react-scripts test"
   },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "engines": {
+    "node": "16.x"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
